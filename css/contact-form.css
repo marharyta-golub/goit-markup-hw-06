@@ -125,6 +125,9 @@
 }
 
 .modal-agreement {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 24px;
   font-weight: 400;
   font-size: 12px;
